@@ -9,9 +9,7 @@
 - [Requirements and Setup](#requirements-and-setup)
   - [Required Technologies & Libraries](#required-technologies-and-libraries)
   - [Deployment Instructions](#deployment-instructions)
-  - [Additional Setup](#additional-setup)
-    - [1. Metamask configuration: Import these accounts into Metamask](#1-metamask-configuration-import-these-accounts-into-metamask)
-    - [2. Assign the accounts the specific Roles accordingly](#2-assign-the-accounts-the-specific-roles-accordingly)
+  - [Additional Setup with Metamask](#additional-setup)
 
 ## About this Flight Insurance DApp
 
